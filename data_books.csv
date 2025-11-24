@@ -1,0 +1,6 @@
+id,title,author,isAvailable
+B001,Java Basics,Author A,TRUE
+B002,Data Structures,Author B,TRUE
+B003,Algorithms,Author C,TRUE
+B004,Design Patterns,Author D,TRUE
+B005,Machine Learning,Author E,TRUE
